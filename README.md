@@ -12,3 +12,7 @@ How do you feel today? Select from a variety of moods to visually represent your
 
 ---
 
+## Installation
+``` bash
+streamlit run hey.py
+```
